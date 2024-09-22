@@ -13,7 +13,7 @@ export default function Features() {
         <div className="p-6 bg-gray-100 rounded-lg text-center">
           {/* Top Centered Round Image */}
           <img
-            src={Delivery} // replace with your image source
+            src={Delivery}
             alt="Fast Delivery"
             className="w-24 h-24 mx-auto rounded-full mb-4"
           />
@@ -21,12 +21,12 @@ export default function Features() {
           <p>Get your products in no time with our rapid delivery options.</p>
         </div>
 
-        {/* Feature 2: Custom Designs */}
+        {/* Feature 2: Higher Profits */}
         <div className="p-6 bg-gray-100 rounded-lg text-center">
           {/* Top Centered Round Image */}
           <img
-            src={Profit} // replace with your image source
-            alt="Custom Designs"
+            src={Profit}
+            alt="Higher Profits"
             className="w-24 h-24 mx-auto rounded-full mb-4 bg-white"
           />
           <h3 className="text-xl font-semibold">Higher Profits</h3>
@@ -40,7 +40,7 @@ export default function Features() {
         <div className="p-6 bg-gray-100 rounded-lg text-center">
           {/* Top Centered Round Image */}
           <img
-            src={Idea} // replace with your image source
+            src={Idea}
             alt="Top-Quality Materials"
             className="w-24 h-24 mx-auto rounded-full mb-4"
           />
